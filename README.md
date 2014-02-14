@@ -1,4 +1,5 @@
 anacoff
 =======
 
-COFF file reader
+coff (\*.out file) reader for TI C2000.
+
